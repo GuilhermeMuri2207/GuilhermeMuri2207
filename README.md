@@ -32,8 +32,8 @@ Sou um desenvolvedor full-stack apaixonado por tecnologia e sempre em busca de n
 
 ## 🌐 Como me Encontrar
 - [LinkedIn](https://www.linkedin.com/in/guilherme-muri/)
-- [GitHub](https://github.com/guilhermemuri)
-- [Instagram](https://www.instagram.com/guilhermemuri)
+- [GitHub](https://github.com/GuilhermeMuri2207)
+- [Instagram](https://www.instagram.com/muri.guilherme)
 
 ---
 
