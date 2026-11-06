@@ -1,41 +1,27 @@
-# 👋 Olá! Eu sou o Guilherme Muri 
+# Olá, eu sou o Guilherme Muri 👋
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e sempre em busca de novas habilidades. Atualmente, me especializo em Angular, C#, ASP.NET, Node.js, JavaScript (ES6), HTML, CSS e Banco de Dados, com foco na criação de soluções completas para a web.
+Desenvolvedor Full Stack na Fundação Saúde do Estado do Rio de Janeiro, onde trabalho com sistemas web internos, do banco de dados à interface. Gosto de código limpo, sistemas bem estruturados e de resolver problemas reais com software.
 
----
+🎓 Bacharel em Ciência da Computação · Pós-graduado em Desenvolvimento Full Stack
+📚 Estudando agora: [o que você está estudando de fato]
 
-## 🚀 Sobre Mim
-- 🎓 **Formação:** Graduado em Ciência da Computação e pós-graduado em Desenvolvimento Full-Stack.
-- 💻 **Carreira:** Desenvolvedor Full Stack com experiência em front-end e back-end.
-- 🎯 **Interesses:** Design de sistemas escaláveis, performance de aplicações e clean code.
-- 🌱 **Aprendizado:** Estou sempre explorando novas tecnologias e frameworks para evoluir como profissional.
+## 🛠️ Stack
 
----
+[![Stack](https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,express,cs,dotnet,react,vite,firebase,mysql,git,figma)](https://skillicons.dev)
 
-## 🛠️ Habilidades Técnicas
+- **Front-end:** Angular, React, TypeScript, JavaScript, HTML, CSS, Bootstrap
+- **Back-end:** C#, ASP.NET, Node.js, Express, APIs REST
+- **Mobile:** React Native, Expo, PWA
+- **Banco de dados:** SQL Server, MySQL, Firebase
 
-### **Linguagens e Frameworks**
-- **Front-end:** HTML5, CSS3, JavaScript (ES6+), Angular
-- **Back-end:** Node.js, Express.js, C#, ASP.NET
-- **Banco de Dados:** SQL Server, MySQL
+## 🚀 Projetos em destaque
 
-### **Outras Tecnologias**
-- Bootstrap, API REST, JSON
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Destrincha](link) | Organiza faturas de cartão em PDF por categoria usando IA | ... |
+| [Saroma](https://saromadoces.web.app/pedido) | App (PWA) de gestão de uma confeitaria: vendas por ponto de venda, planejamento de produção, resumos e cardápio online integrado ao WhatsApp | React, Vite, Firebase |
 
-### **Ferramentas e Ambientes**
-- Git & GitHub
-- Visual Studio Code
-- Postman
-- Figma (para design de interfaces)
+## 📫 Contato
 
----
-
-## 🌐 Como me Encontrar
-- [LinkedIn](https://www.linkedin.com/in/guilherme-muri/)
-- [GitHub](https://github.com/GuilhermeMuri2207)
-- [Instagram](https://www.instagram.com/muri.guilherme)
-
----
-
-## 📧 Contato
-Para entrar em contato, envie um e-mail para: guilhermemuri1@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-muri/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermemuri1@gmail.com)
