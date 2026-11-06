@@ -3,7 +3,6 @@
 Desenvolvedor Full Stack na Fundação Saúde do Estado do Rio de Janeiro, onde trabalho com sistemas web internos, do banco de dados à interface. Gosto de código limpo, sistemas bem estruturados e de resolver problemas reais com software.
 
 🎓 Bacharel em Ciência da Computação · Pós-graduado em Desenvolvimento Full Stack
-📚 Estudando agora: [o que você está estudando de fato]
 
 ## 🛠️ Stack
 
